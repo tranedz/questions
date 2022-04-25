@@ -1,0 +1,17 @@
+{
+    "question": "Formulation",
+    "responses": 
+    {
+      "responseOne": {
+        "text": "Formulation",
+        "image": "Chemin",
+        "isValid": true
+      },
+      "responseTwo": {
+        "text": "Formulation",
+        "image": "Chemin",
+        "isValid": false
+      }
+      
+    }
+  }
